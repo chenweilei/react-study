@@ -1,0 +1,13 @@
+.btnStyleActive{
+	background-color: red;
+}
+
+.contStyle{
+	width: 200px;
+	height: 200px;
+	display: none;
+	border: 1px solid #ccc;
+}
+.contStyle.active{
+	display: block;
+}
